@@ -118,7 +118,7 @@ An AI-based logistics and accessibility intelligence platform focused on the Nor
 
 - 🥇 **IEEE Xtreme:** Global Rank 107 among 8,000+ participating teams.
 - 🏅 **IEEE Xtreme:** National Rank 21.
-- 💻 **Problem Solving:** Solved 250+ problems on LeetCode.
+- 💻 **Problem Solving:** Solved 350+ problems on LeetCode.
 - 🤖 **Internship:** Artificial Intelligence and Machine Learning Intern at Edunet Foundation – IBM SkillsBuild.
 - 📅 **Internship Duration:** 6 Weeks | November 2025.
 
