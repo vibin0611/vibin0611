@@ -2,7 +2,7 @@
 
 ### Aspiring Software Engineer | Java Full Stack Developer | AI Integration Enthusiast
 
-🎓 Third-year B.Tech Information Technology student at **Sri Krishna College of Engineering and Technology, Coimbatore**.
+🎓B.Tech Information Technology student at **Sri Krishna College of Engineering and Technology, Coimbatore**.
 
 I am passionate about building scalable applications, solving challenging problems, and developing technology-driven solutions to real-world challenges. I specialize in Java Full Stack Development and enjoy integrating AI capabilities into modern applications.
 
