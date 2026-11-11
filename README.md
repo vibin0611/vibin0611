@@ -67,53 +67,6 @@ I am passionate about building scalable applications, solving challenging proble
 
 ---
 
-## 🚀 Featured Projects
-
-### 01. CloudShare – Secure File Sharing Platform
-
-A web application designed to simplify secure file sharing and file management.
-
-**Key Features**
-- Interactive and responsive user interface using React.
-- User authentication and account management using Clerk.
-- File upload, sharing and management functionality.
-
-**Tech Stack:** React · JavaScript · Clerk
-
-🔗 [View Repository](https://github.com/vibin0611/cloudshare-webapp)
-
----
-
-### 02. Cafeteria Management System
-
-A full-stack application designed to streamline cafeteria operations and management.
-
-**Key Features**
-- Backend development using Spring Boot.
-- MySQL database integration and data management.
-- Menu, order, inventory and payment management.
-- REST API-based communication between frontend and backend.
-
-**Tech Stack:** Java · Spring Boot · React · MySQL
-
-🔗 [View Repository](https://github.com/vibin0611/cafeteria-management-system)
-
----
-
-### 03. AI-Based Smart Logistics Platform
-
-An AI-based logistics and accessibility intelligence platform focused on the North Eastern Region (NER).
-
-**Key Highlights**
-- Focuses on smart logistics and accessibility challenges.
-- Explores technology-driven approaches to logistics intelligence.
-
-**Tech Stack:** JavaScript · AI-based Application Development
-
-🔗 [View Repository](https://github.com/vibin0611/Smart-Logistics-Ner)
-
----
-
 ## 🏆 Achievements & Experience
 
 - 🥇 **IEEE Xtreme:** Global Rank 107 among 8,000+ participating teams.
@@ -133,19 +86,6 @@ An AI-based logistics and accessibility intelligence platform focused on the Nor
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vibin0611&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:kkvibin559@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/vibin0611">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
